@@ -1,92 +1,89 @@
-"""Daily Brief local server. Standard library only. Run: python server.py"""
-from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
+"""Curated publisher headlines via Google News RSS; no scraping, no API key.
+Google may omit publishers or limit description text; failures do not manufacture stories.
+"""
 from urllib.parse import quote
 from urllib.request import Request, urlopen
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import xml.etree.ElementTree as ET
-import json, re, html, threading, time
-
-ROOT=Path(__file__).resolve().parent
+import json, html, re, threading, time
+ROOT=Path(__file__).resolve().parents[1]
 TZ=timezone(timedelta(hours=7))
-CACHE=ROOT/'latest-brief.json'
-FEEDS={
- 'thailand':('ข่าวประเทศไทย ข่าววันนี้',5,'🇹🇭'),
- 'world':('ข่าวต่างประเทศ ข่าวโลก',5,'🌍'),
- 'finance':('เศรษฐกิจ การเงิน ตลาดหุ้น',4,'📈'),
- 'technology':('เทคโนโลยี AI วิทยาศาสตร์',4,'💻'),
- 'sports':('ข่าวกีฬา',3,'🏅'),
- 'music':('Taylor Swift Ariana Grande Olivia Rodrigo Sabrina Carpenter album music',3,'🎵'),
- 'bts':('BTS 방탄소년단 new album tour official news',2,'💜'),
-}
+CACHE=ROOT/'data'/'latest.json'
 LOCK=threading.Lock()
+SOURCES={
+ 'thailand': [('ไทยรัฐ','thairath.co.th'),('THE STANDARD','thestandard.co'),('Thai PBS','thaipbs.or.th')],
+ 'world':[('Reuters','reuters.com'),('BBC','bbc.com'),('Thai PBS','thaipbs.or.th')],
+ 'finance':[('ประชาชาติธุรกิจ','prachachat.net'),('กรุงเทพธุรกิจ','bangkokbiznews.com'),('THE STANDARD','thestandard.co')],
+ 'technology':[('TechCrunch','techcrunch.com'),('The Verge','theverge.com'),('THE STANDARD','thestandard.co')],
+ 'sports':[('BBC Sport','bbc.com'),('Reuters','reuters.com'),('ไทยรัฐ','thairath.co.th')],
+ 'music':[('Billboard','billboard.com'),('Pitchfork','pitchfork.com'),('Rolling Stone','rollingstone.com')],
+ 'bts':[('Weverse','weverse.io'),('BIGHIT MUSIC','bighitsmusic.com'),('Billboard','billboard.com')]
+}
+TERMS={'thailand':'ข่าว ประเทศไทย','world':'world international news','finance':'เศรษฐกิจ การเงิน ตลาดหุ้น','technology':'AI technology news','sports':'กีฬา football sports','music':'music album chart Taylor Swift Ariana Grande Olivia Rodrigo Sabrina Carpenter','bts':'BTS 방탄소년단 tour music'}
+LIMIT={'thailand':5,'world':5,'finance':4,'technology':4,'sports':3,'music':5,'bts':3}
+ICONS={'thailand':'🇹🇭','world':'🌏','finance':'💰','technology':'🤖','sports':'⚽','music':'🎧','bts':'💜'}
 
-def get_feed(query, count, icon):
-    url='https://news.google.com/rss/search?q='+quote(query)+'&hl=th&gl=TH&ceid=TH:th'
-    req=Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; DailyBriefPersonal/1.0)'})
-    with urlopen(req,timeout=14) as res: raw=res.read(2_000_000)
-    tree=ET.fromstring(raw)
-    items=[]
-    for node in tree.findall('./channel/item'):
+def fetch_one(category,source):
+    name,domain=source
+    term=TERMS[category]+' site:'+domain
+    url='https://news.google.com/rss/search?q='+quote(term)+'&hl='+('th&gl=TH&ceid=TH:th' if category in ('thailand','finance') else 'en&gl=US&ceid=US:en')
+    req=Request(url,headers={'User-Agent':'Mozilla/5.0 (compatible; DailyBriefReader/1.0)'})
+    with urlopen(req, timeout=16) as resp: xml=resp.read(2_000_000)
+    root=ET.fromstring(xml)
+    results=[]
+    for node in root.findall('./channel/item')[:15]:
         title=html.unescape(node.findtext('title') or '').strip()
-        source=node.findtext('source') or ''
-        link=node.findtext('link') or ''
-        if title.endswith(' - '+source):title=title[:-(len(source)+3)]
-        if not title or not link:continue
-        desc=html.unescape(re.sub('<[^>]+>',' ',node.findtext('description') or ''))
-        desc=' '.join(desc.split())
-        # RSS summaries frequently repeat a list of links and titles; avoid pretending to have AI summaries.
-        summary=('อ่านรายละเอียดและตรวจสอบข้อเท็จจริงจากเว็บไซต์ต้นทาง' if len(desc)<30 else desc[:260])
-        items.append({'title':title,'summary':summary,'source':source or 'Google News RSS','url':link,'icon':icon,'published':node.findtext('pubDate') or ''})
-        if len(items)>=count:break
-    return items
+        src=(node.findtext('source') or name).strip()
+        link=(node.findtext('link') or '').strip()
+        if not title or not link: continue
+        if title.lower().endswith(' - '+src.lower()): title=title[:-(len(src)+3)]
+        pub=node.findtext('pubDate') or ''
+        try:
+            dt=parsedate_to_datetime(pub)
+            stamp=dt.timestamp()
+            published=dt.astimezone(TZ).strftime('%d/%m/%Y %H:%M')
+        except Exception:
+            stamp=0
+            published=pub
+        # RSS description is often unrelated link HTML; do not invent story summaries.
+        description=html.unescape(re.sub(r'<[^>]*>',' ',node.findtext('description') or ''))
+        description=' '.join(description.split())
+        if title in description or len(description)<35: description='อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง'
+        else: description=description[:260]
+        results.append({'title':title,'summary':description,'source':name,'url':link,'icon':ICONS[category], 'published':published,'published_unix':stamp})
+    return results
 
 def generate(force=False):
     with LOCK:
         today=datetime.now(TZ).date().isoformat()
-        if not force and CACHE.exists():
+        if CACHE.exists() and not force:
             try:
-                old=json.loads(CACHE.read_text(encoding='utf8'))
-                if old.get('date')==today and old.get('thailand') and old.get('world'):return old
-            except (OSError,ValueError):pass
-        data={'date':today,'type':'rss','thailand':[],'world':[],'finance':[],
-              'technology':[],'sports':[],'music':[],'knowledge':[],'history':[],
-              'quick':[],'thought':'อ่านข่าวอย่างมีวิจารณญาณ ตรวจสอบข้อมูลจากหลายแหล่งเสมอ',
-              'generated_at':datetime.now(TZ).isoformat(),'warnings':[]}
-        for name,(term,n,icon) in FEEDS.items():
-            try:
-                target='music' if name=='bts' else name
-                data[target]+=get_feed(term,n,icon)
-            except Exception as e:
-                data['warnings'].append(f'{name}: {type(e).__name__}')
-        if not any(data[k] for k in ['thailand','world']):
-            raise RuntimeError('ไม่สามารถเชื่อม Google News RSS ได้ ตรวจสอบอินเทอร์เน็ต หรือทดลองใหม่ภายหลัง')
-        CACHE.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
+                old=json.loads(CACHE.read_text(encoding='utf-8'))
+                if old.get('date')==today and old.get('thailand'):return old
+            except (ValueError,OSError): pass
+        data={'date':today,'type':'rss','thailand':[],'world':[],'finance':[],'technology':[], 'sports':[], 'music':[], 'bts':[], 'knowledge':[], 'history':[], 'quick':[], 'games':[], 'generated_at':datetime.now(TZ).isoformat(), 'warnings':[], 'thought':'พาดหัวจาก RSS อาจมีข้อมูลไม่ครบ โปรดอ่านและตรวจสอบข่าวจากลิงก์ต้นทาง'}
+        raw={k:[] for k in SOURCES}
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            futures={pool.submit(fetch_one,category,s): (category,s[0]) for category,ss in SOURCES.items() for s in ss}
+            for f in as_completed(futures):
+                category,source=futures[f]
+                try: raw[category].extend(f.result())
+                except Exception as e:data['warnings'].append(f'{category}/{source}: {type(e).__name__}')
+        for category,items in raw.items():
+            seen=set()
+            for item in sorted(items,key=lambda x:x['published_unix'],reverse=True):
+                key=re.sub(r'\W+','',item['title'].lower())[:65]
+                if key in seen:continue
+                seen.add(key)
+                item.pop('published_unix',None)
+                data[category].append(item)
+                if len(data[category])>=LIMIT[category]:break
+        # Maintain separate BTS news and also combine within existing Music Radar card.
+        data['music']+=data['bts']
+        if not (data['thailand'] or data['world']):
+            raise RuntimeError('Cannot retrieve current news. Existing published news should be preserved.')
+        CACHE.parent.mkdir(parents=True,exist_ok=True)
         return data
-
-class Handler(SimpleHTTPRequestHandler):
-    def __init__(self,*args,**kwargs):super().__init__(*args,directory=str(ROOT),**kwargs)
-    def do_GET(self):
-        if self.path.split('?')[0]=='/api/brief':
-            try:
-                obj=generate(force='refresh=1' in self.path)
-                status=200
-            except Exception as e:
-                obj={'error':str(e)};status=503
-            payload=json.dumps(obj,ensure_ascii=False).encode('utf8')
-            self.send_response(status);self.send_header('Content-Type','application/json; charset=utf-8')
-            self.send_header('Cache-Control','no-store');self.send_header('Content-Length',str(len(payload)))
-            self.end_headers();self.wfile.write(payload)
-        else:super().do_GET()
-
-def refresh_daily():
-    while True:
-        try:generate()
-        except Exception as exc:print('RSS refresh:',exc)
-        time.sleep(3600)
-
-if __name__=='__main__':
-    print('Daily Brief เปิดที่ http://localhost:8765')
-    print('โปรดเปิดหน้าต่างนี้ไว้ หากต้องการให้เซิร์ฟเวอร์อัปเดตข่าวรายวัน')
-    threading.Thread(target=refresh_daily,daemon=True).start()
-    ThreadingHTTPServer(('127.0.0.1',8765),Handler).serve_forever()
