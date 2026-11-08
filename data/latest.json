@@ -1,64 +1,80 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "type": "rss",
   "thailand": [
     {
-      "title": "สภาพอากาศวันนี้ ไทยตอนบนฝนลด - ภาคใต้ฝนตกหนักหลายพื้นที่ 8-13 พ.ย.",
+      "title": "กรมอุตุฯ ฉบับ 14 ภาคใต้มีฝนเพิ่มขึ้น 8-9 พ.ย. \"นครศรีฯ-สงขลา-ปัตตานี\" ตกหนักมาก",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Thai PBS",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92OU9yeDdmT3IyQUZRRkxYMGctQkNBUm45WHd6dGtBeGRsVVJCNHVoTUpHY0QzN0s4TE5JU0puRnBKdjl3V2xfLVZQRU1QNTFjQ3lKSDZMcUs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9teVRic3VHak5OeTluMHRGYU81R1Z1WGo0Zzdza2NydURKR2tySFBIOXk3WmtxM0pJbmt5RHpkOVZUTnlfTmpYQmM2Y2VqTmFXZUxHUUxsWC0?oc=5",
       "icon": "🇹🇭",
-      "published": "07/11/2026 07:16"
+      "published": "08/11/2026 07:21"
     },
     {
-      "title": "LEAPMOTOR พบ BOI หารือตั้งโรงงานในไทย เล็งใช้เป็นฐานรุกตลาดรถพวงมาลัยขวา",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ไทยรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xY2lIZlcyeUdlVUMxSW5ZUTMzakU0bENFNU56eUI0eGRsbDgyU1ZRbEt4YjR2NUs1U09lNkhPRmVpS1Q1aDVkakUxdWFnZVJEaE9UQXlreW9nSkNEay1Z?oc=5",
-      "icon": "🇹🇭",
-      "published": "06/11/2026 19:29"
-    },
-    {
-      "title": "กรมอุตุนิยมวิทยา ฉบับ 11 เตือนไทยตอนบนอากาศยังแปรปรวน - ภาคใต้ฝนเพิ่มขึ้น",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ไทยรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rY0t1V2JfSy13T3ZXcmQ2YjZKLXo2TWpOU29IMWFDamRNem5OUXIta2NMc05uLTRTblpudnhGb20xb3dXM1JzdXpyWk1mRmhXYWpuSkpnQUY?oc=5",
-      "icon": "🇹🇭",
-      "published": "06/11/2026 18:36"
-    },
-    {
-      "title": "กรมอุตุฯ ประกาศ ฉ.11 ไทยตอนบนอากาศแปรปรวน - ภาคใต้ฝนตกหนัก 6-9 พ.ย.",
+      "title": "สภาพอากาศวันนี้ ภาคใต้มีฝนเพิ่มขึ้น ตกหนักถึงหนักมากบางแห่ง ไทยตอนบนฝนลด",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Thai PBS",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIMjJLVW5VZk9wdXZENUpzZ2duR3ZVa0FuRXVQSE1yNGxiemxRZWFLbEQtMmJWUjJWMmpmU2xlVHExaUxFQndUczlDdUotRFJqWTZHaW5sMVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Q3Fia2hDeUZHNnhWYnV0VnN0dkVLTGt6U3dTRDJFM00yWFFfMzRIS1JCTjR2bTNIMk54YzJMZ3dFbTFrVU1tR3NfeU03aE9CS3hjOVp0V20?oc=5",
       "icon": "🇹🇭",
-      "published": "06/11/2026 18:12"
+      "published": "08/11/2026 07:02"
     },
     {
-      "title": "ทูตจีนแจงกรณีประกาศเตือนพลเมืองมาไทยระวังความเสี่ยงถูกลักพาตัว ยืนยันเป็นมาตรการป้องกัน-ไม่ได้พุ่งเป้าไทย",
+      "title": "ตำรวจ ปอศ. จ่อเอาผิด ‘บุ๋ม ปนัดดา’ ยืนยันข้ออ้างถูกหลอกฟังไม่ขึ้น เตรียมงัดหลักฐานฟันปมนำเงินบริจาคใช้ส่วนตัว",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "THE STANDARD",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kWng3VmxYZzVfM0xvSy1YeUIzbzBsNEZrUFQ3U09OOXRTWGlMTTM1T21la1NuaFdoTWR0M0RCNGlUYnpuTmlZZ2hnNmJvRkJrWl9FcEJWWjNJT2hwRDZxZ2RZVldMbU1OLW1YTnNmR3Fqd0x5anM4UTVvQXNVSkk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9idlNSYTV6OHVMXzZsMmZUdWpyNDMzZ25yMGJsOVh5cUZib3ZINDVCOG5kVHpiODExaVF0YmdkMmc5dVBFZ3FCZUhya2pEQWFRWDFHcG02R0tPcW9qTnZpcmE5Z1lzQnY5QVJ5MDJkLWVTeURSQXU4a3lfVkE?oc=5",
       "icon": "🇹🇭",
-      "published": "06/11/2026 17:57"
+      "published": "08/11/2026 03:54"
+    },
+    {
+      "title": "ข่าวรอบวัน (6 พฤศจิกายน 2569)",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42SGFybTBTWGlJY3BmUTIzM1pEZ1BOc0lQRVpxaTFCUkw1T2czOEwzWjItWE0tcC1ta0lQMVdQTmltdTBoVjVDZDZVekxWaWRLdm02cGFQWXl6cVlnQWc?oc=5",
+      "icon": "🇹🇭",
+      "published": "08/11/2026 01:34"
+    },
+    {
+      "title": "ดูย้อนหลังฉับไว - ข่าวดึก | Thai PBS รายการไทยพีบีเอส",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1UVBuNy1XOFhLYTl5SHdhZXFyTUZwa1RDYkpzQkNrZk9Zckt6LWEwUnVIdEJsTVY0aGIwcXZNX1lGZkE2WFVYaC1wM1pyVzlEUVBqUTZwazExa0px?oc=5",
+      "icon": "🇹🇭",
+      "published": "08/11/2026 00:12"
     }
   ],
   "world": [
     {
-      "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+      "title": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5",
       "icon": "🌏",
-      "published": "07/11/2026 06:41"
+      "published": "07/11/2026 13:01"
     },
     {
-      "title": "UK | Latest News & Updates",
+      "title": "Trump vows new US air show will be biggest in the world",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE54NHU1VFJQcW5WSG1XUjAzMFkwbzJTQVFUWms2TzdPTE1Ea2hvVmhPY1dyMWxvNl9acWo3TEFJYWc?oc=5",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaV9zT0JNbUQ0dXp1aWFJYmRBUHhMSzRiMUJ1emQ3dnJHdTdoQUdlV3Jfb0MwT1V4UzFlUnZQUzZnUlhKaFY0Q2dLOVVodWFvOXRDR2xDS2dESFZKcjNRcVdwOFpGMVRfNHY5YWJUU1lsVVlPbnY4TlNxNVRickpDWXJ2T0RGQUdUQ18xZ2Ezd0lMcVlmcDYwckV2SUc1b09oWjNmTE9fcmNTTTNCdmFiQQ?oc=5",
       "icon": "🌏",
-      "published": "07/11/2026 04:12"
+      "published": "07/11/2026 07:21"
+    },
+    {
+      "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5",
+      "icon": "🌏",
+      "published": "07/11/2026 06:04"
+    },
+    {
+      "title": "Paraguay Senate votes to impeach President Peña",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEZGTXdqZzI2U0M5aVZQb2FnNXk0VS1tWFlfci1fd1AyYnRYOUxQSElRUkxnM0RsNl9HZWkwb2pla2FxMXBRWF9zZ2o4amgwcGZrWnZxaHpvd0VBUDlSWk9tU1NfNTdFb0t5WVF4Q0pvZFZZdkRUcmh6ZEJXMmtnb2gzYVEwVXl6dWVQZDB1UVdfd2JDSXoxMWpR?oc=5",
+      "icon": "🌏",
+      "published": "07/11/2026 05:19"
     },
     {
       "title": "GE Aerospace says it signs record $12.9 billion deals at China expo",
@@ -67,59 +83,51 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUllMM1FiXzA2aGxRdlFGeElIa0FsWS0xLXdMS2NXUGlrUGR6X29xcGgxdnh0cXRKSlI1LVFKbXFtN1FpMzRMWWwwLVZ2Y3dXUzRob2txLVBtc3VWNE5ZNVNhSDR5bUVTN2lyZFZ4Y29yTjFkbVd0alh6bFFRN1dscjVRV1phQ2dKOVhnNXVkMHkzVzU5dndxWE8zNWd1eEpncm1Sdl9rakZtazRFNWFOOFFGd2N2REhF?oc=5",
       "icon": "🌏",
       "published": "06/11/2026 20:55"
-    },
-    {
-      "title": "Trump could woo North Korea after midterm setback, but Kim may not respond",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkJyMVBWVHpWN0ZmV2dkTmd1Nng2djRzUFgyVmlCUDV6MWVjMzFVemZsN1BSS01tTDlCamxlUU11cUNwLXpaS2NSMnVtNGRtSTF1YVY4alJQTE1UNnIzTzNMY0xmRHpCS1JVVnNZZ1A5dHFyX2FkMXhza3BrYmNFMkpHRnYwejgtNzZJMXhMZzFnZDVuQzI3N25hRFRGYlI2ZG91N1NXUFhNQkpKU0tyaC1oN0F1WU14?oc=5",
-      "icon": "🌏",
-      "published": "06/11/2026 11:40"
-    },
-    {
-      "title": "Middle East",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdGRGZGN1Vm4xeWtCUTBFMGRPbWlXMnZsQWtuMkR6THpPM0JhOGNpRktxVkVjRUt2aFVOb2FhSGJqam1hYk9Gd2wyWUxKS044S1dmYw?oc=5",
-      "icon": "🌏",
-      "published": "06/11/2026 04:21"
     }
   ],
   "finance": [
     {
-      "title": "เอกชนมึนความเสี่ยงท่วมโลก ผวา AI เปลี่ยนทิศ-ฉุดส่งออก",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FNjB6bXdLYXJNR1NnQmJPcDdoeHNyNC1GaXA1ZjF1TXI1dTJQTDdrWGtiR0pTdnl3bjB4TjRZcTFHUUI2dk1scFV4MTR0N0xVcXA1TFVR?oc=5",
-      "icon": "💰",
-      "published": "07/11/2026 07:01"
-    },
-    {
-      "title": "ดาวโจนส์ดิ่ง 1,800 จุด แนสแด็ก ปรับฐาน หุ้นเทคฯ AI ถูกเทขายหนัก",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "กรุงเทพธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxZ3J3eHl1UkpPYURpSFc3a1dqMHMzMnZKWUFhS2pzTGxVXzhabXlhQmNhWkxKN25OdTVINC1SRlY2eGJPVTlJczNGU3JnbUNoQm4yUVRKbmFfZGx1a1VSel9R?oc=5",
-      "icon": "💰",
-      "published": "07/11/2026 05:30"
-    },
-    {
-      "title": "‘เอกนิติ’ มองผลเลือกตั้งสหรัฐฯ กระทบไทยในระยะสั้น ย้ำยึดวินัยการคลังตั้งรับเศรษฐกิจผันผวน",
+      "title": "เปิดฉากทัศน์ การเลือกตั้งกลางเทอมสหรัฐฯ ต่อแนวโน้ม ค่าเงินบาท-ตลาดการเงิน",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "THE STANDARD",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ednp2eU0wTzRVbURETDJCNFBEU3F4RExNdE04ZjdRaFI1Mi00a2ZZa1BibzZ6djNzODFVSEctTk84LXJHY2EwbC1hSzB4a2E0SDdsNGFsZzU5aTZiVnA3ZzFwMFJudnhRdThEWUpDY2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WbXhINzVSSkZ0cElPWV9QUlpCOTFuZ3F4WTI2VkVJd0dGekM4LTVaUEhfTGpkbE1IN2ZNRjZXWXZucVgtMk1SWG4zbHVQVTdWQ1FaZ0xOdl9JVHRTNmpPeHdrMVRNZEtiX1pDZkp3?oc=5",
       "icon": "💰",
-      "published": "06/11/2026 14:37"
+      "published": "08/11/2026 05:04"
     },
     {
-      "title": "ปอศ. อายัด 18 บัญชีพบเงิน 102 ล้าน โยงมูลนิธิองค์กรทำดี ‘บุ๋ม ปนัดดา-ก๊อต อธิป’ ปฏิเสธทุกข้อหา นัดแถลงใหญ่ 7 พ.ย.",
+      "title": "เดโมแครตชนะแล้ว เศรษฐกิจโลกจะเปลี่ยนอย่างไร? จับตาภาษีการค้า ทิศทางพลังงาน",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "THE STANDARD",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16bHY0bFhoZndJWlBFRnhuMHZQSDBFbllvbjVKS0JLUGV2bUlfZU41T21wWGlRQ1RfNU1LaWF3UzdqSUQ5VEVjZHNFNk45MUdlSmtNS3lyTlBRRGNDbDFTSFpwMUpoUlRINENfV1hrYXB0X2laLW5GMnlR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MR1hTOU5DUGZ1VVNFT1dNbFFBU1lrN3FmNFB0Y0YtS2ZrejBuZnRmS3pxUlN5ckMyUTNHQS1LSWh0ZmJmc19XT2VjZGl0aWNfYk1ZSVR3Wmh2UFJVVUFiR0pWOUJHTWlmcDhUOWtR?oc=5",
       "icon": "💰",
-      "published": "06/11/2026 13:34"
+      "published": "08/11/2026 02:20"
+    },
+    {
+      "title": "ผู้ว่าฯ ธปท.เผยขนาด ‘ทุนเทา’ ในไทยคิดเป็นราว 13% ของ GDP ย้ำ ‘ดึงนอกระบบ เข้าสู่ระบบ’ ทางรอดเศรษฐกิจไทยโตต่ำ",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "THE STANDARD",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRVlGUkE4bV9FUHNtTE82UUNPZWtwaEkyRWZEeGthbV9Zd1djSTI0ZzNYbVk3MXBhX0pkeWFpemcyc21PNk85WElIc19RNlRfWktycHI1R19pVVBlSXJIal84XzFLdnJpYkN3aw?oc=5",
+      "icon": "💰",
+      "published": "07/11/2026 21:59"
+    },
+    {
+      "title": "3 บทเรียนเศรษฐกิจ จากญี่ปุ่นถึงไทย สร้างเศรษฐกิจยุคใหม่ สู้โลกผันผวน",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "THE STANDARD",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xVEtWQ2FzdndqMkxuNUR0aHNTOGt4OVpXZWtHWVVSaGZhWmxlazJBZWJlUzZ4dGZyT3pzSndTcjBJZGc2ZFdQOXdyV0FaRTlhWUc4OTdNdko1Zm9lTXFPVzloUXBvbUJKMTlIOGktS1Jid3BxMWJR?oc=5",
+      "icon": "💰",
+      "published": "07/11/2026 19:42"
     }
   ],
   "technology": [
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5SXpaOWZleWQzNG5uTGI4STBQTE16UzFqeGRrR1VuQ3gxUlJjckFnRTllYllfNmNnaHFwSEtNbnd6UVFtWXBCQTBWc21zajF6Q2xmOVB4Tld5a1VEcVRucERPWXo3Vk1BVEZjSTExVTFFLTE5U0NlU3pWNA?oc=5",
+      "icon": "🤖",
+      "published": "07/11/2026 06:00"
+    },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
@@ -129,28 +137,20 @@
       "published": "07/11/2026 01:44"
     },
     {
-      "title": "AI is the new dating dealbreaker",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFZ3LVQwc2kxYWpneG9GUW85TFp5TG12a2lMUWFEdjFEOXZJZWo3enp6cVN1aWlYbTdGbGFQRFA2WE9faW01SEg4QlBiQjRMMTR6TGFWMW9WVkR0eG00S1hUbEJWbzkzYzNBcHNDclU5OTF1UG84WXhWWUZOVVJKQTFGM0hDTGpGUDJZbXJ3eHB5dDNKcXo4ZmNTTkNqWVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xQUF5VTNxUVoyTWpMMXotUzg2TmZ0NmZIcEtJbDZ2Vk9vTVhWTk5xYTBBQ04tcURMX2NkWTRNMnJkTjNFTEJwaWtqc1k4MlczNVVtRHBwQ0FubTVjWTl3NHVOSGstWWd3?oc=5",
       "icon": "🤖",
-      "published": "07/11/2026 00:00"
+      "published": "07/11/2026 01:10"
     },
     {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQllMZmdhNFpxNklLcTNFUnZXWUxOX050TkFqendsNDItX2NDeHE5NURWZHp5Q3NwSmZOQWZmQnI1Zm5fNkxYQkFkRWlqT2NxM0NoLVZZVTBmN05VdkRYdG50TFhxU1VYSzFIYVFiTWp6OFRTazM0Z3NRN0cyc0psRnpOMjZMSVB5TzQ0anF0amlPUVFuNTBqMV9pOVhsQWhnc3RkU3Rn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamU5dkNWdHBPYUsxNGgzR3NuVjVVRFdfTkxSdFBIWmdXZ3FHNlBGRjBsMEw2OHhmcTRwMjJDRXlQYnV0emF3Z2pqVDh2UFRkeGlTeEtiNDJaa2ZueHZTZ01qVzlabFFFaE1nWlBYM1JiWDZZTFU5WGdQckFTSU96bTluRkpWYm51Y3I3ZzNGa1UzaTk3dVMw?oc=5",
       "icon": "🤖",
-      "published": "06/11/2026 22:54"
-    },
-    {
-      "title": "7-Eleven Archives",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "THE STANDARD",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96d2ZFNWF0NnhFVHVGbnFOMm9hQW1ESnJ4aEx2Njk1TzRUa3BHdlE4Mk1Ba1VFUzdqWlZianZsMFc0bkFSTmtlYklTcGk5b0RrS2Z3cFUyOA?oc=5",
-      "icon": "🤖",
-      "published": "06/11/2026 19:27"
+      "published": "07/11/2026 00:23"
     }
   ],
   "sports": [
@@ -163,20 +163,20 @@
       "published": "06/11/2026 12:42"
     },
     {
-      "title": "Amorim Leads AC Milan to Home Defeat Against Ferencváros, Dropping in Europa League Standings",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ไทยรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HX1ZhcXhRQVJpOFFuUi01NWFCMHJtRkh3OHFpMDdDMjlSRjN5Ny1wRUlmVzR4VUVBQUtib1VUYzVzZzZLR2I0WFlmRmdvY1piSUVFNXIteGNXYkhXODEzNXhn?oc=5",
-      "icon": "⚽",
-      "published": "06/11/2026 12:12"
-    },
-    {
       "title": "Surasak Signs MOU to Support Thai League 3 for 2026-27 Season Covering 69 Clubs Nationwide",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "ไทยรัฐ",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KU2xkdGdSX1pSMXVhM3NqMkNlMGxtUlU5bUJIYTNKQ215QjdaNUFIckFidkRvVzRtb1ZPXzhMUWpDSzlobVYxODNmQXBvQmEwU21rSTJBNmVpZFZMMk9qc2pR?oc=5",
       "icon": "⚽",
       "published": "05/11/2026 13:15"
+    },
+    {
+      "title": "Sophia from Thailands Womens Sailing Team Qualifies for 2028 Olympics, Wins Gold at 2026 Asian Games",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "ไทยรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NdC1Kb2trMEFDeVh1c3BHTHlsMU9nVUlmNHpyM3RzN0NMNGx4ZWxzUXRVUnYwZmJPM0VxcGdKMEJWcTFoOUlxb0kyTWRySF9nVDJudklsX2Z6QQ?oc=5",
+      "icon": "⚽",
+      "published": "02/10/2026 14:00"
     }
   ],
   "music": [
@@ -194,15 +194,7 @@
       "source": "Billboard",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXN2SV9PcjNnTTg4M05KNDUzeFNWWkhMN1ZtamtlZDlScnJwM2NWR09ta3gyb2h6TGF2Z0JjMWE4eFpkLXpXSXhWQ2psSk1Vc1kxaU5TV2RLd2lrMnBrZ2FpZFVyNDZFU05MN3FGNlF5QS1MSnRvSk54ZkFvcVlUWGhSaFZ6MW5MNU9WeHQyNA?oc=5",
       "icon": "🎧",
-      "published": "06/11/2026 14:07"
-    },
-    {
-      "title": "Sabrina Carpenter",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "Billboard",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qc3hOZVY1cEMteXdSY0tLQ0JPSW1lNkNjUGFCSW43Vm5aaWowaUZscV9SZ2V4blVUTzFPbjlwNFk2VGxXaHBLVzhJQVFGT1o1d2g5VTJvc3VOZm5XNHowVA?oc=5",
-      "icon": "🎧",
-      "published": "06/11/2026 05:26"
+      "published": "05/11/2026 15:00"
     },
     {
       "title": "LISA’s ‘Press Play’: All 6 Tracks Ranked",
@@ -221,6 +213,14 @@
       "published": "07/10/2026 14:00"
     },
     {
+      "title": "Here Are All the 2026 MTV VMAs Winners: Full List",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2VEM2lzWWREUE5OSzYwTmc4ZTZ2bThxTTZpVHF6b1lJS0dqblgwZl9xSGd6RTlPLWFIR2pxWUluTmFlQnlQMkVDX3gxRzg5X0dLb0NUNjdhczNxLTJxRWJqR0prbk05TG5vZkxQS282aGozbWpYMm9OR1lLdXA1aDRkenRYSzZDTlpRQ1phcw?oc=5",
+      "icon": "🎧",
+      "published": "28/09/2026 14:00"
+    },
+    {
       "title": "Weverse BTS Media - BTS (방탄소년단) 'SWIM' Stage CAM @ iHeartRadio Music Festival 2026",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Weverse",
@@ -234,7 +234,7 @@
       "source": "Billboard",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkRSd2VLMVk2bHJnYjUtallwalFTUkVmNWUzVnlFQ2pTbFhHeWRGQ1I4NXNsMEk5dzhTeXd4Ynp5TmxMWnpjUmpHblFwMW9FZjBzNmJ4QzJJd29mUWlxWjl4Y21qaVZDSW1qaXRoaVdBQ1lGUU1nUWNXVWxjZ0R4Q3p0UmMyU0RZV3phbzVscEQ0VlU?oc=5",
       "icon": "💜",
-      "published": "28/10/2026 04:35"
+      "published": "27/10/2026 14:00"
     },
     {
       "title": "[NOTICE] BTS THE CITY ARIRANG - NEW YORK Notice (+260728 updated)",
@@ -260,7 +260,7 @@
       "source": "Billboard",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkRSd2VLMVk2bHJnYjUtallwalFTUkVmNWUzVnlFQ2pTbFhHeWRGQ1I4NXNsMEk5dzhTeXd4Ynp5TmxMWnpjUmpHblFwMW9FZjBzNmJ4QzJJd29mUWlxWjl4Y21qaVZDSW1qaXRoaVdBQ1lGUU1nUWNXVWxjZ0R4Q3p0UmMyU0RZV3phbzVscEQ0VlU?oc=5",
       "icon": "💜",
-      "published": "28/10/2026 04:35"
+      "published": "27/10/2026 14:00"
     },
     {
       "title": "[NOTICE] BTS THE CITY ARIRANG - NEW YORK Notice (+260728 updated)",
@@ -275,7 +275,7 @@
   "history": [],
   "quick": [],
   "games": [],
-  "generated_at": "2026-11-07T08:00:03.034222+07:00",
+  "generated_at": "2026-11-08T08:06:03.135836+07:00",
   "warnings": [],
   "thought": "พาดหัวจาก RSS อาจมีข้อมูลไม่ครบ โปรดอ่านและตรวจสอบข่าวจากลิงก์ต้นทาง"
 }
