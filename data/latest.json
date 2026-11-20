@@ -1,84 +1,158 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "type": "rss",
-  "thailand": [],
+  "thailand": [
+    {
+      "title": "จากห้องเรียนสู่ห้องข่าว! มทส. เยี่ยมชมไทยพีบีเอส เปิดประสบการณ์โลกสื่อสารมวลชน",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxObEtidk1MZmtzQ2t4VnA0NmJWRWJQM2w0ODlIQ0o1V3QxRHdBY0NCN0JqMHNSdlpPcnZoa21ZOWxMWkJCbWtsTTlPWHo5dkp1UjF5RnJOemp3QmhnWldSaHlKSlJORDdHWlBPMHJscEFCT1Q2VGFpUFN2TFdBNG9oNGg0Z3o3dW5zaHhrMEQ2dnFUVVFKMWFwWWNiSHV2RlgwYVR5dnVsc3lsOC01ak5mTEFnSmFWU3VxUFd5Z0MzWTBsX2ZqdjNvQWNpZW9GWGlyRHI2VDNqc1d1OWhyS2NiS1lJRE1HVnZWZFRyZmxESWtWUlB5eHdtek1LNmpsb3FGVjdwTjEzTWpGSDJCdlhvbU5meFNwZ0Flb0FiUVYtMVFQVkV4SEVYOWJRMS00eHBha0d3Q1ZOOGctM0xEVDlhUG5BaW1iWHZzVmtBaWdrakVEelR3YnNDVA?oc=5",
+      "icon": "🇹🇭",
+      "published": "20/11/2026 11:21"
+    },
+    {
+      "title": "\"พล.ท.วันชนะ\" ชี้ \"ฮุนเซน\" สร้างภาพบิดาแห่งสันติภาพ",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5ekFNeVZtWG94OTEyRHJaVlkzQlJvQXpWTXBfSXpZWjBUWjRjWnRlZzdhSWZMY1BhbmY0bTFrMWduSjVkN3RqaE85cUU3TVJmZE51RUpPYW0?oc=5",
+      "icon": "🇹🇭",
+      "published": "20/11/2026 11:08"
+    },
+    {
+      "title": "พบศพหญิงนิรนาม ถักผมเปีย ถูกฆ่ายัดถุงพลาสติก ทิ้งอำพรางริมถนน จ.บุรีรัมย์",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "ไทยรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9taU5PYm5aQnFpck53aV9DNHZTWEpoNlBSMUd0UElEWGJueF9oeFY3cndfSnpWWHhoQ2dRRDJDMHZLenc2Ym0xWVNUaFVtY0lIWThUTlIwc0w?oc=5",
+      "icon": "🇹🇭",
+      "published": "20/11/2026 10:00"
+    },
+    {
+      "title": "โปรดเกล้าฯ ให้ถอนคืนเครื่องราชฯ พันโทหญิง-ร้อยตรีหญิง 10 ราย เหตุบกพร่องต่อหน้าที่ราชการ",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "ไทยรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RbEd3NXE1NmxHMjdtZmNpUGV3cjc2QUwzcGdjZzF4R0xVZU1zUC1XS0t3WG4xNmdta3pyaW9keEFkaGd2WEE5dHR1RmNCYlBZUm01d3p4dUxMekk?oc=5",
+      "icon": "🇹🇭",
+      "published": "20/11/2026 08:56"
+    },
+    {
+      "title": "ไทย-จีน ลงนามแลกเปลี่ยน MOU 8 ฉบับ พร้อมเตรียมตั้งแล็บร่วมตรวจคุณภาพน้ำภาคเหนือ",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "THE STANDARD",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zSU9kMXRMbmliTW5vZEZPV014bHJDUFc4empBTktDazNZUzE0ZGc1ZlRnZllaeWkzeVN4enk4NkRlSVl4VnlsQk9oaE9wc3hCRF9jNmsyRU1MMmstdjJBYnU3MXhlaXE3aUl3ZHhR?oc=5",
+      "icon": "🇹🇭",
+      "published": "20/11/2026 07:52"
+    }
+  ],
   "world": [
     {
-      "title": "Global inflation calls for monetary policy tightening in many economies, IMF head says",
+      "title": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek12QlczdG01emR1MWtEdU8zWXFZalNKUWE3cDR4Vm9YbFNVaU51Y3RxT0Ywak8yV2FrSUQxelVFRDBRZlFwblRqMWctbmw5TUFja2xjSEh3UW1PQUJtTEVmb0FkMVpoYkg0UWVFYkNOZXhSSU54RUJxOTVOdDNQaEk4N2FqUjdWQjNpSk1yZndSZjhzcURKc2dUT2RLOUVqb3dwUGExZG1KUm4tdk05VzBDN0N4SGhvbFdxZg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
       "icon": "🌏",
-      "published": "19/11/2026 09:43"
+      "published": "20/11/2026 10:24"
     },
     {
-      "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZV9uT1R6QjFJeHlkYmhUeTdIQ0F0Ync2akZibV9hdmhtNEZMelUzSkk1WlFTNTJUd2NKdC1ILW9rWHZJb3JZemxwT2dwNlc5QjNIYzlNS1kwVkt6aDl5aVl0VFdvRUNPYzBMeXJtMnM4YVJPWjdvSzZ6eWlQNXVFdGdhNkw3YzhpQ0V4Yk11dlFKS21RREIxZVcwUFJxS0xKZ25TMDE1bGtDRUJ2aUp2VVFBVkUtSDU1VXBLNENB?oc=5",
-      "icon": "🌏",
-      "published": "19/11/2026 00:58"
-    },
-    {
-      "title": "Spain",
+      "title": "Breaking news, video and the latest top stories from the U.S. and around the world",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kWW1NckhORVpEb3JPRjZTNm9sX29xZ2dFa1hrQVByc3F2andodTFhTk9fTzJuS285b011VWxPMmp2Rk01YjhxMXRWaDVhUm5ERlc2UWFDUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1fU1RxaFJPN3owdV9ycENhQTlQM2loT2ZJZHNjeGZoRUZYOUJ2SzBESUdYcGNraGREdU95Yg?oc=5",
       "icon": "🌏",
-      "published": "18/11/2026 23:46"
+      "published": "20/11/2026 07:21"
     },
     {
-      "title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
+      "title": "Trump says no rush on Iran decision, looks to next year",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkkzQVk3M3pnOXRWVlFCMmVzUEN0alhCS0gzQUhYNkhCMDhCOUM0N0tmMFpZNVNKcnVNbktaYXV5MV9ERm13WHoxTEVtUGRMUkZwT3dJZmlRZ2pyRE1WMGoyZW1VcXVWdTVRTmxZV1RISHNXWE9YY1BUUC1EWlJWRWRsYzlGTXo0WmhjaUxiUnAyMDl2OU9mWmliYndLd0htWGVLYWFUUldMOUIzLV9TSnBB?oc=5",
       "icon": "🌏",
-      "published": "18/11/2026 22:46"
+      "published": "20/11/2026 04:36"
     },
     {
-      "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
+      "title": "Middle East",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mdGRGZGN1Vm4xeWtCUTBFMGRPbWlXMnZsQWtuMkR6THpPM0JhOGNpRktxVkVjRUt2aFVOb2FhSGJqam1hYk9Gd2wyWUxKS044S1dmYw?oc=5",
+      "icon": "🌏",
+      "published": "20/11/2026 02:52"
+    },
+    {
+      "title": "Backing Trump, US Senate Republicans block Iran war resolution",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
       "icon": "🌏",
-      "published": "18/11/2026 21:52"
+      "published": "20/11/2026 02:51"
     }
   ],
   "finance": [
     {
-      "title": "E-Space : เมื่อเทคโนโลยีที่ดี อาจเริ่มจากการเลือกปัญหาที่ถูกต้อง",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mVnhSelhieEhTdUQ4Z2JlZU1pNnp3bkF0eXFuV2NlVGhVc2JhalQ5SDg2cVc2eUtCU0dtSncyUDh4bkNMeFcwM1JsZmJEd2d5QkpjcW5sQ1NCdVlDdGdFd01R?oc=5",
-      "icon": "💰",
-      "published": "19/11/2026 12:36"
-    },
-    {
-      "title": "หุ้น-ทอง-บอนด์ กอดคอร่วง INVX แนะแนวทางปรับพอร์ต",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3bGFZaGFnYXNRelFOV29OdEJnMkdSSE9Eajd3cEZYOG1mUmdZeVJDN3NqUS04SE9CQklkSWtTd0NXVVlxNkJpc3JWMDRnUC1RSHRtMUcwUF9tRGM?oc=5",
-      "icon": "💰",
-      "published": "19/11/2026 11:46"
-    },
-    {
-      "title": "ตลาดหลักทรัพย์ฯ กางแผนตั้งรับภัยไซเบอร์ พร้อมดีเดย์ปรับเกณฑ์ TRS ย้ายเข้าพอร์ตโบรกฯ เตรียมประกาศรายละเอียด 16 พ.ย. นี้",
+      "title": "อินโดนีเซีย 2027: “วันที่รอให้ทุกอย่างพังทลาย”",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "THE STANDARD",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsVWZaMnhwVEljcHdMeTlPdUtDNlpadENwdjRxTVU0Y0phS3lXblRoSVVRc1U2N2pvOWgtd1hkTHlWOTZ0cmR5OXM0QlU1bkZWZlpwbnJXOVQweXAyaC03YmFuRXFGRUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTWtHaVlpam5SeG5VRG5RbG5ZTlR4QzBnWm5QQWZXREx4d196OVhuVEg5RVVNZmZHUWp6NHVrbDVEN190c1RmOWFONWg4V05ZUE5OaHRrTU5KUkZiX2FHVDNfc1dLZ0VEWmphTEpMWW4tdw?oc=5",
       "icon": "💰",
-      "published": "19/11/2026 10:37"
+      "published": "20/11/2026 12:40"
     },
     {
-      "title": "หุ้นไทยยังไร้แรงหนุน เสี่ยงแกว่งลงต่อ CBG-GPSC เด่นรับน้ำมันขาลง",
+      "title": "หุ้นไทยเสี่ยงเจอแรงขาย คาดดัชนี 1,450-1,480 จุด ชู 12 หุ้น Value รับมือผันผวน",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "ประชาชาติธุรกิจ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44TU9palZ3MFN2a2dSMThJeHBtMEMtVnA4aDZVMWZIM0NuTy0wSkVoRjFWU2FtUjFSX1R3ektXM1NzeTNYX3R4cGhzdXlGQk14azdrX3R3S285OEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuRElHYlo0TUY3Q2NmYm40ZlVZbFFoVS1md2FoYm9LWnpsUGRSRWU2dzFDRnRTb29PVlNINlp0VFRmZEsyRE15cUR1RzBBZG9ycnphMmlVRUZnX3M?oc=5",
       "icon": "💰",
-      "published": "19/11/2026 09:22"
+      "published": "20/11/2026 10:19"
+    },
+    {
+      "title": "จับตาประชุมประวัติศาสตร์ ‘ทรัมป์-สี-ปูติน’ รีเซ็ตระเบียบโลก หารือนิวเคลียร์-ความมั่นคง เป็นไปได้แค่ไหน?",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "THE STANDARD",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxZkFXTDlUME5UTjhuYjdBS0t6ZUFJV05kNFVncHBzbkNCeE5lM3RjY3h5OHdlaC1XQjFqcWUxRmFzdUhfRnAtZUNITDZDUVFMUEkwQldWSHp6VV94VXJ0YnVxLWJ2ajV0bVhuYzEwT0tKSlNU?oc=5",
+      "icon": "💰",
+      "published": "20/11/2026 01:02"
+    },
+    {
+      "title": "ทำไมเงินบาท ‘อ่อนค่า’ ทะลุ 34 บาทต่อดอลลาร์ ครั้งแรกในรอบ 19 เดือน พร้อมเปิดแนวโน้มระยะต่อไป",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "THE STANDARD",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04c2MyX0l4Z2xBWHpGSzRaRGx0eXZDTnhpZ0RjeTBwOGJWMTFGMFRBdTdKTFhIRk0tNjVPelY0bzBrOUFoUTZWOWM5akt5eTRfMUxTSEZoYThGWnlGT2hBMWFqRXdqOWVCOFVwYklhcFh4V3FSTHVXLQ?oc=5",
+      "icon": "💰",
+      "published": "19/11/2026 16:04"
     }
   ],
-  "technology": [],
+  "technology": [
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRpWGxyaWRqbnBxTllOMGFSNkxUTVJweUNGX1lLWVRXbFpSSnVadUJTYU13TktrRWhxYTU2ZlVyLTJ6YU1qQTVwZGRDN2l0ZEZYNkd5a0ZUcjEzZXplUFY2TkFnUHFUUFhjelFGbXhoc3hoVk42RWE5NDhtWjlNeUVhbmd0Q3hKUTFfOHY1MFhOYzFFaHI0bHd3?oc=5",
+      "icon": "🤖",
+      "published": "20/11/2026 07:56"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WFRUMzlQZGxwaVNlYzlJdndFR3pDNURIeEM4Q1RpNUdkUzhBaFpOVHgxOHg4Y1BmazJhdUhLRjdMOERCUUlwT3loSDhPb0gyM1FCdkJQRC1tTl83MGRWRHFpTDh2UTVyUHpsYUc4ZFh5VzUzaTlQSmhpZUQ2UQ?oc=5",
+      "icon": "🤖",
+      "published": "20/11/2026 05:31"
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbUVoZ3JKLWNfTmtaMHlHcTJrZDdjZU81dGhUYk1TVzhRRGExekZLT29pa0kzMmFmbWNNcmFkRFJoT2YwSXFRRDBtX2NHaFI2MTFsdmlYVnFGeEZCWjdrUWNSdDUxdHFteDB3UkE5QUZzMVZtZWRjdjJObGo2SjNnSS1GWVhSV2NfZUNz?oc=5",
+      "icon": "🤖",
+      "published": "20/11/2026 04:42"
+    },
+    {
+      "title": "Meta’s Muse Charm might cost $300",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "The Verge",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CalByZGtwTzVBNnZkN1NsQjhHZFYxM3VXclM2Tlg4QkU3SnQ2WGhpcld0bUJiVFB6V1RTby1OUWt3R1VSakFhRzhubXNuU0xDYU96UDNVYmc3U1VKYWR6ak9CQmNIUE1WQjQtZDhlRQ?oc=5",
+      "icon": "🤖",
+      "published": "20/11/2026 03:22"
+    }
+  ],
   "sports": [
     {
       "title": "Madame Pangs Latest Move After Thailand Wins Kings Cup 2026 in Sisaket",
@@ -89,23 +163,63 @@
       "published": "18/11/2026 12:59"
     },
     {
+      "title": "ทีมมวยไทยเยาวชน กระหึ่มโกย 14 ทอง รวม 27 เหรียญศึกอิฟม่า ยูธ เวิลด์ แชมเปี้ยนชิพส์ ในรอบ 10 ปี - ไทยรัฐ",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "ไทยรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRVZZT19XZlQtMk12dENQR2diMDZvZERFcVVNWjREaEEtNFdIdU53Tnp5VE9oYU1FYVMxZXE0M2l1S2xRVlA0cUhvY2o5UmxoY3NUbW1RdXZTYm8?oc=5",
+      "icon": "⚽",
+      "published": "16/11/2026 11:59"
+    },
+    {
       "title": "Swat Cat FC U14: A Team to Watch, Led by Former Thai League Left Back Decha Sangkdee at PMYC 2026/27",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
       "source": "ไทยรัฐ",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DV0dwN056RFBidGM5NV85RnpSVXVIVG5oVmdDSDdLZHhvbDBSM04wamh2M2Z0X2JhZ3g5NjlrVDctWWsxT2YzbG45clFxVlFoYkhsREhjbUkwQk9zRC0wTHFB?oc=5",
       "icon": "⚽",
       "published": "11/11/2026 11:08"
-    },
-    {
-      "title": "Announced! 23 Players of Thailand U23 National Team for November Friendly in Vietnam, Thairath Live Broadcast",
-      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
-      "source": "ไทยรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvT09wd21IZVphQlZ0S0hXU185bWQzUkhzeFdpZGQ4ekZIRm5USnNiaWVHbkdLZ1NBbHdaZWVQNnpfdmY4VGYxanpHWnBuTEJLYXVsWlhjb1hia2ZDSDhoWnRB?oc=5",
-      "icon": "⚽",
-      "published": "05/11/2026 11:39"
     }
   ],
   "music": [
+    {
+      "title": "Taylor Swift Sets New Grammy Record With 5 Years of Major-Category Nominations",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG1qV3J4M2pSZE0ycExBWFllTXZxcmN5eWxhc2lmRUk4RXNud2c5TVhvR1J0T19SZU9pbFM4b25yN2FhNUtUVUJQVUVMN2ZCZkRGdTN0V3lRYmtrdzUwaEtVSmpaakZzdmt3QlBwTnJKWDNhMXNDdE1qQ2hZRHdFVG5odHF2QXA2dXY0bXFvVm00ZnNaSjdSdWo3cV93QlhzNWZJOEoyMktiX3lrNVRGeA?oc=5",
+      "icon": "🎧",
+      "published": "16/11/2026 23:43"
+    },
+    {
+      "title": "Grammy Nominations 2027: See the Complete List",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zcDliLUh0T3d6b2pjaFFDVlNDWFpGYkxzTEpoLXNGelAtZlhGQklsSHpiZUk5eHJzTHNXa25ENUpnNzAweGNrZ0M2UzRGeklOUFhIY19URFNxNFpzcW5SUUxUZzlMbTI3b2VBR1NKZ1d5WWZR?oc=5",
+      "icon": "🎧",
+      "published": "16/11/2026 22:07"
+    },
+    {
+      "title": "Premios Grammy 2027: Lista completa de nominados",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tWnZpenZGQnlXM0lEdGVfeElXUHdiM3NKV0gtWnU0bkZodVBIYjZLYTFZUnM4TkhHbVhOVmJ3ZzVNZzdhbWxVTy1zNGVKY2ZnVkt0dlh6d3htRkt0Qk5WcndSMWp2aVpqc3RoZjRSb0NZM1ptX3VQSjg5SQ?oc=5",
+      "icon": "🎧",
+      "published": "16/11/2026 20:53"
+    },
+    {
+      "title": "Grammy Nominations 2027: See the Full List Here",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Pitchfork",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdF95b0llbjlPN3ZiaGpHbjJBTTU3QnAxZ003ZkFaSXg0WmxNOFdnUnhORjczVTlxQ000YWpnWnVFeE1QaWFjM2d4NG43cGgxS3J3THN2YmtPU25udEEtWjQtbHVoaUc5QjYwem51UFN4Y0VXY2JubEFHQUJERUl0cQ?oc=5",
+      "icon": "🎧",
+      "published": "16/11/2026 19:45"
+    },
+    {
+      "title": "Raye, Rosalía, and Ella Langley Lead 2027 Grammy Nominees",
+      "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
+      "source": "Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3JkOUN6YlBPR016Q1V3LWlFRkdscHRQNGlFdjV2WWtkMGtLcm9yWFViUU1fVDZSZXVNUDliMWZCV0RWb2dDLXFVcjk3bDhfbmkyR3hLdERuUXpKVkpMWlJLYS1sSDZZay1XMktUUWVGTFFrcGdMNnNQSTZzbHZvTms1bm1hVVNTS2swS2JmYTA3amFWbFE?oc=5",
+      "icon": "🎧",
+      "published": "16/11/2026 19:16"
+    },
     {
       "title": "[NOTICE] BTS THE CITY ARIRANG - SINGAPORE Notice (+261111 updated)",
       "summary": "อ่านรายละเอียดเพิ่มเติมและตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ต้นทาง",
@@ -161,21 +275,7 @@
   "history": [],
   "quick": [],
   "games": [],
-  "generated_at": "2026-11-19T14:16:02.444394+07:00",
-  "warnings": [
-    "world/Thai PBS: HTTPError",
-    "thailand/ไทยรัฐ: HTTPError",
-    "thailand/Thai PBS: HTTPError",
-    "thailand/THE STANDARD: HTTPError",
-    "technology/TechCrunch: HTTPError",
-    "technology/The Verge: HTTPError",
-    "sports/BBC Sport: HTTPError",
-    "technology/THE STANDARD: HTTPError",
-    "music/Billboard: HTTPError",
-    "music/Rolling Stone: HTTPError",
-    "sports/Reuters: HTTPError",
-    "music/Pitchfork: HTTPError",
-    "bts/BIGHIT MUSIC: HTTPError"
-  ],
+  "generated_at": "2026-11-20T14:05:19.298153+07:00",
+  "warnings": [],
   "thought": "พาดหัวจาก RSS อาจมีข้อมูลไม่ครบ โปรดอ่านและตรวจสอบข่าวจากลิงก์ต้นทาง"
 }
